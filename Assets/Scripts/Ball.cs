@@ -67,11 +67,11 @@ public class Ball : MonoBehaviour {
 
         /* If hit with a lot of foce by the paddle, sometimes the ball can teleport outside of the playing field at high speed.
          * In order to check whether that has happened we get the ball's current position and save the coordinates as variables.
-         * If the sum of the two coordinates is larger than 300, then it is outside the playing field and we have it respawn.
+         * If the sum of the two coordinates is larger than 350, then it is outside the playing field and we have it respawn.
          */
         float ballPositionX = Mathf.Abs(rBody.position.x);
         float ballPositionY = Mathf.Abs(rBody.position.y);
-        if ((ballPositionX + ballPositionY)>350)
+        if ((ballPositionX + ballPositionY) > 350)
         {
             // If the ball falls outside of the playing field, the player loses a life.
             lives -= 1;
