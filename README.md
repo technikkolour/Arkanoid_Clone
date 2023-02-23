@@ -1,4 +1,4 @@
-# Arkanoid_Clone# Arkanoid_Clone
+# Arkanoid Clone
 
 ## Description
 
