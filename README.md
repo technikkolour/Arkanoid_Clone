@@ -1,10 +1,12 @@
 # Arkanoid Clone
 
 ## Description
-
 You go trick-or-treating on Halloween and have the misfortune of running into your neighbourhood bullies who steal your candy.
 
 You now must defeat them in a game of Arkanoid in order to win your treats back!
+
+## itch.io Link
+https://technikkolour.itch.io/arkanoid-clone
 
 ## Screenshots
 ![Screenshot (15)](https://user-images.githubusercontent.com/60484019/195053211-c6edd4c0-ad6c-400c-bde6-5b39573d8fa7.png)
